@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class OnTrigger : MonoBehaviour
+public class wall : MonoBehaviour
 {
     //OnTriggerEnter関数
     //接触したオブジェクトが引数otherとして渡される
